@@ -2,14 +2,14 @@
 
 <br>
 
-- 🔭 I’m currently working on developing an application that helps comfort those who are experiencing the pain of loss.
-- 🌱 I’m currently learning Large Multimodal Model to expand my expertise in cutting-edge ML techniques.
-- 👯 I’m looking to collaborate on open-source ML projects, especially those related to data science, deep learning, and AI ethics.
-- 🤔 I’m looking for help with optimizing model performance and exploring new architectures for large-scale data.
-- 💬 Ask me about anything related to machine learning, data science, and AI applications. I'm always happy to share my knowledge and learn from others!
+- 🔭 I’m currently working on developing an iOS application to improve user experiences through thoughtful design and functionality.
+- 🌱 I’m transitioning from AI development to iOS native development, focusing on mastering Swift and UIKit/SwiftUI.
+- 👯 I’m looking to collaborate on open-source iOS projects, especially those involving intuitive UI/UX and performance optimization.
+- 🤔 I’m exploring ways to integrate AI with iOS apps to enhance user interactions and automation.
+- 💬 Ask me about iOS development, Swift, and transitioning from AI to mobile development—I’d love to share my journey and learn from others!
 - 📫 How to reach me: meowbutlerdev@gmail.com
 - 😄 Pronouns: Cat butler
-- ⚡ Fun fact: I have timid, noisy, and fat cats.
+- ⚡ Fun fact: My three cats have very different personalities—one is timid, one is noisy, and one is fat.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a18cd1,100:cd9cf2&section=footer)
 
