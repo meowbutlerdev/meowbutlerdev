@@ -1,5 +1,7 @@
 # What brings an esteemed guest like you to such a humble place?
-![cats](https://image.until.blog/meowbutlerdev/about/1738594220704.png)
+<p align="center">
+  <img src="https://image.until.blog/meowbutlerdev/about/1738594220704.png">
+</p>
 
 ---
 
