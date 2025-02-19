@@ -1,10 +1,3 @@
-<h1 style="text-align: center;">What brings an esteemed guest like you to such a humble place?</h1>
-<p align="center">
-  <img src="https://image.until.blog/meowbutlerdev/about/1738594220704.png">
-</p>
-
----
-
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:a18cd1,100:cd9cf2&text=Hi%20there👋&section=header&reversal=false&textBg=false&animation=twinkling&rotate=0&stroke=fbc2eb&strokeWidth=2&descSize=20&fontSize=70&fontAlignY=50&descAlignY=70)
 
 ## 🚀 Transitioning from AI Developer to iOS Native Developer
