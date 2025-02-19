@@ -1,4 +1,6 @@
-<span style="font-size: 28px; text-align: center;">🏡🙇 What brings an esteemed guest like you to such a humble place?</span>
+<div style="text-align: center;">
+    <span style="font-size: 28px;">🏡🙇 What brings an esteemed guest like you to such a humble place?</span>
+</div>
 <p align="center">
   <img src="https://image.until.blog/meowbutlerdev/about/1738594220704.png">
 </p>
