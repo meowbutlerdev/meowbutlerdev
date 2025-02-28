@@ -2,7 +2,7 @@
 
 ## 🚀 From AI to iOS Development
 
-Hello!  
+Hello!👋  
 I started as an AI developer and am now transitioning into iOS development.  
 Currently, I’m learning Swift, UIKit, and SwiftUI to build better iOS apps.  
 
